@@ -1,0 +1,12 @@
+flask
+line-bot-sdk
+requests
+boto3
+Pillow>=10.1.0
+opencc
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
